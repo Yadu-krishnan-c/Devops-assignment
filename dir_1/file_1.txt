@@ -1,2 +1,4 @@
 Hello world,
 This is a sample text file created for the Introduction to DEVOPS assignment.
+
+This is an additional line added to understand about git changes
